@@ -11,6 +11,12 @@
 # sudo apt-get install telegram
 ```
 
+Отключить Fn клавиши, чтобы работали только при зажатой (на маках)
+```
+# sudo mcedit /etc/rc.local
+echo 2 > /sys/module/hid_apple/parameters/fnmode
+```
+
 ### SAMBA
 установить пакет samba (debian), создать самба пароль для пользователя root, редактировать файл конфигурации
 ```
