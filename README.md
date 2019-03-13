@@ -14,6 +14,12 @@
 ### Внешние ссылки
 * [MarkDown Гитхаба](https://guides.github.com/features/mastering-markdown/)
 * [Записки убунтолога - редрута](https://gist.github.com/firefoxic/23c3ff262cb5790957e0ae23b748aaaa)
+* [Проверка регулярных выражений](https://www.bl2.ru/programing/regular.html)
+* [Разработка баз данных](https://www.dbdesigner.net/)
+* [Списки проксей](http://spys.one/)
 
 ### Интересные приложения
 * [Polybar](https://github.com/jaagr/polybar) - интересный бар для линукса (используют в связке с i3wm в основном)
+
+### Статьи - информация
+*[Гит как хранилище данных](https://habr.com/ru/post/317662/)
