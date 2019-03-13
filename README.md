@@ -23,3 +23,4 @@
 
 ### Статьи - информация
 * [Гит как хранилище данных](https://habr.com/ru/post/317662/)
+* [Emacs для начинающих](http://alexott.net/ru/writings/altlinux-emacs/)
