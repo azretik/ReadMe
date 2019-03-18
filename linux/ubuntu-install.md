@@ -36,6 +36,9 @@
 > отключается в настройках, так как мешает отправлять горяую клавишу непосредственно в консоль.
 
 ##### подключаем дополнительные репозитории
+```# sudo add-apt-repository ppa:atareao/telegram```
+
+
 
 ##### ставим софт и кодеки
 ``` # sudo apt install [name]```
@@ -61,3 +64,10 @@
 
 ##### установка 32 битных библиотек
 ```sudo apt-get install libc6:i386 libasound2:i386 libasound2-data:i386 libasound2-plugins:i386 libgtk2.0-0:i386 libsdl2-2.0-0:i386 libsdl2-image-2.0-0:i386 libfreetype6:i386 libcurl3:i386```
+
+##### уменьшение работы с разделом подкачки
+```# echo -e "vm.swappiness=10" | sudo tee -a /etc/sysctl.conf```
+
+##### использование всех ядер процессора
+```#sudo gedit /etc/init.d/rc```
+> CONCURRENCY=makefile
