@@ -40,7 +40,7 @@
 ##### ставим софт и кодеки
 ``` # sudo apt install [name]```
 
-> ubuntu-restricted-extras - кодеки под несвободными лицензиями
+> ubuntu-restricted-extras libavcodec-extra libdvd-pkg - кодеки под несвободными лицензиями
 
 > preload - заранее подгружает приложеня в озу
 
