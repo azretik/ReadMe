@@ -27,3 +27,4 @@
 * [Установка убунты на мак](https://habr.com/ru/post/207100/)
 * [Модификация раскладки на линукс](https://habr.com/ru/post/222285/)
 * [Файлы ярлыков приложений .desktop](https://pikabu.ru/story/faylyi_yarlyikov_prilozheniy_desktop_i_ikh_menyu_5291239)
+* [Что такое мета и прочие супер модификаторы](https://ubuntu.voprosotvet.site/question/152174-chto-takoe-meta-syper-i-giper-kluchi/)
