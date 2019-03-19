@@ -62,6 +62,13 @@
 ##### не работают клавиши регулировки подсветки клавиатуры
 > решается проблема следующим образом - необходимо подёргать ползунок яркости подсветки клавиш в настройках и тогда всё начинает адекватно функционировать
 
+##### переключение логики работы функциональных клавиш без fn
+> всё заработает после перезагрузки (sudo reboot)
+
+```# echo options hid_apple fnmode=2 | sudo tee -a /etc/modprobe.d/hid_apple.conf```
+
+```# sudo update-initramfs -u -k all```
+
 ##### установка 32 битных библиотек
 ```sudo apt-get install libc6:i386 libasound2:i386 libasound2-data:i386 libasound2-plugins:i386 libgtk2.0-0:i386 libsdl2-2.0-0:i386 libsdl2-image-2.0-0:i386 libfreetype6:i386 libcurl3:i386```
 
