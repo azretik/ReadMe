@@ -17,6 +17,7 @@
 * [Проверка регулярных выражений](https://www.bl2.ru/programing/regular.html)
 * [Разработка баз данных](https://www.dbdesigner.net/)
 * [Списки проксей](http://spys.one/)
+* [Список торрент трекеров](https://github.com/ngosang/trackerslist)
 
 ### Интересные приложения
 * [Polybar](https://github.com/jaagr/polybar) - интересный бар для линукса (используют в связке с i3wm в основном)
