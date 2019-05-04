@@ -17,6 +17,18 @@
 echo 2 > /sys/module/hid_apple/parameters/fnmode
 ```
 
+Смотреть информацию с датчиков температуры
+```
+# sudo apt install lm-sensors
+# sudo sensors-detect
+# sensors
+```
+
+```
+# sudo apt install psensor
+# psensor
+```
+
 ### SAMBA
 установить пакет samba (debian), создать самба пароль для пользователя root, редактировать файл конфигурации
 ```
