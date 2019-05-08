@@ -51,7 +51,7 @@
 
 > gnome-tweak-tool - дополнительные настройки gnome3
 
-> p7-zip-rar rar unrar unace arj cabextract - работа с архивами
+> p7zip-rar rar unrar unace arj cabextract - работа с архивами
 
 > sushi - предпросморт файлов через пробел
 
