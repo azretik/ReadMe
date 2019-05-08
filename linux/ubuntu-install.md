@@ -90,31 +90,77 @@
 ##### Улучшить звучание аудио
 > необходимо со стандартных настроек сменить значения на продвинутые в файле /etc/
 
+
 #### УКРАШЕНИЯ
 ##### Расширения для Gnome3 с сайта extentions.gnome.org
 > caffeine - чтобы экран не засыпал
+
 > Status Area Horizontal Spacing - управлять отступами в верхней панели
+
 > OpenWeather - погодный виджет в верхюю панель
+
 > Disconnect WiFi - клавиша отключения от текущей точки доступа
+
 > Better Volume Indicator - регулировка громкости через скролл по значку в верхней панели
+
 > Scrovol - регулировка громкости при скролле по верхней панели (конфликт со следующим расширением и замена предидущему)
+
 > Workspace Scroll или Top Panel Workspace Scroll - переключение рабочего стола через скролл по верхней панели
+
 > Remove Dropdown Arrows - убрать стрелки выпадающего меню из верхней панели
+
 > Dash Hotkeys - при отображении дока через ALT + [num] запуск приложений
+
 > AppKeys - запуск приложения с дока через SUPER + [num] (работает даже если док не видно)
+
 > Dual Shock 4 battery percentage - виджет для верхней панели, отображающий процент заряда геймпада DS4
+
 > Printers - список принтеров и из задач
+
 > Window Corner Preview - окошко плеер для просмотра видео контента
+
 > Gnomesome - тайловые возможности для gnome
+
 > Turn off Display - клавиша отключения дисплея в меню панели
+
 > Remove Dash - скрыть даш панель
+
 > Overview Navigation - навигация в овервью (списке запущенных программ) через горячие клавиши
+
 > SerMon - монтитор крон, докер и демонов
+
 > Docker integration - список контейнеров докера
+
 > Draw On You Screen - рисовалка поверх экрана через комбинацию SUPER + ALR + D
+
 > Tweaks in System Menu - клавиша вызова дополнительных настроек из системного меню
+
 > Appfolders Management extension - расширение для создания папок в списке приложений
+
 > CPU Power Manager - управление работой процессора Intel
+
 > Dash to Dock - панель док из даша на рабочий стол
+
 > Dynamic Panel Transparency - динамическая прозрачность венхней панели
+
 > Hide Top Bar - настраиваемый твик для скрытия верхней панели, если нужно больше места на экране
+
+##### Изменить фон GDM она логина
+> нужную картинку скопировать в папку /usr/share/backgrounds/, к примеру с названием gdm.jpg
+
+```# sudo cp ~/Изображения/картинка.jpg /usr/share/backgrounds/gdm.jpg```
+
+> Теперь нужно прописать в стиле окна логина необходимую картинку
+
+```# sudo gedit /etc/alternatives/gdm3.css```
+
+> необходимо прописать в разделе **lockDialogGroup** следующие параметры
+
+```
+background: #2c001e url(file:///usr/share/backgrounds/gdm.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+```
+
+> и если вы захотите сменить фон ещё раз, достаточно будет лишь заменить файл в share/backgrounds
