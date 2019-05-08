@@ -78,3 +78,6 @@
 ##### использование всех ядер процессора
 ```#sudo gedit /etc/init.d/rc```
 > CONCURRENCY=makefile
+
+##### удалить приложения из менеджера приложений
+> Amazon, tekka IRC Client
