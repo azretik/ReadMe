@@ -18,6 +18,7 @@
 * [Разработка баз данных](https://www.dbdesigner.net/)
 * [Списки проксей](http://spys.one/)
 * [Список торрент трекеров](https://github.com/ngosang/trackerslist)
+* [Дизайн для REST API от Гугл (Resource Oriented Design)](https://cloud.google.com/apis/design/resources)
 
 ### Интересные приложения
 * [Polybar](https://github.com/jaagr/polybar) - интересный бар для линукса (используют в связке с i3wm в основном)
