@@ -10,6 +10,7 @@
 * [Laravel](https://github.com/azretik/ReadMe/blob/master/Laravel.md)
 * [PostgreSQL](https://github.com/azretik/ReadMe/blob/master/PostgreSQL%2Cmd)
 * [FFMPEG](https://github.com/azretik/ReadMe/blob/master/ffmpeg.md)
+* [OctoPrint install on ArmBian](armbian-octoprint.md)
 
 ### Внешние ссылки
 * [MarkDown Гитхаба](https://guides.github.com/features/mastering-markdown/)
