@@ -15,6 +15,7 @@
 * Возвращение rc.local в ubuntu
 * Установка wsl в windows 10 из консоли
 * Проброс интерфейсов из linux в windows
+* [MacBook Pro 2011](macbookpro2011.md) - хаки и трюки на макбуке
 
 ### Внешние ссылки
 * [MarkDown Гитхаба](https://guides.github.com/features/mastering-markdown/)
