@@ -17,6 +17,13 @@
 echo 2 > /sys/module/hid_apple/parameters/fnmode
 ```
 
+Отключить и переназначить клавиши модификаторы
+```
+# xmodmap
+# xmodmap -e 'claer shift'
+# xmodmap -e 'add shift=Shift_L'
+```
+
 Смотреть информацию с датчиков температуры
 ```
 # sudo apt install lm-sensors
