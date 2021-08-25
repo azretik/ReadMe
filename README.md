@@ -27,6 +27,20 @@
 * [Дизайн для REST API от Гугл (Resource Oriented Design)](https://cloud.google.com/apis/design/resources)
 * [EasyAVR - генератор раскладок кастомных клавиатур](https://github.com/dhowland/EasyAVR)
 
+### Веб утилиты
+* [Трансформация протоколов друг в друга](https://transform.tools/json-to-go)
+
+### java script
+* [json-editor github](https://github.com/json-editor/json-editor)
+* [json-editor demo](https://json-editor.github.io/json-editor/)
+* [sweetalert2](https://sweetalert2.github.io/#icons)
+* [dataTables](https://datatables.net/examples/advanced_init/dom_toolbar.html)
+* [moments](https://momentjs.com/docs/#/parsing/date/)
+* [dateTimePicker](https://github.com/huangyifu/pikaday2-datetimepicker)
+
+### golang
+* [json-schema](https://github.com/alecthomas/jsonschema)
+
 ### Интересные приложения
 * [Polybar](https://github.com/jaagr/polybar) - интересный бар для линукса (используют в связке с i3wm в основном)
 * [CenterTaskbar](https://github.com/mdhiggins/CenterTaskbar) - центрирует иконки приложений в панели задач
