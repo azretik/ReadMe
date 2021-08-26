@@ -4,7 +4,7 @@
 ### Внутренние ссылки
 * [Docker](https://github.com/azretik/ReadMe/blob/master/docker/docker.md) - команды для работы с Docker
 * [Docker-Compose](https://github.com/azretik/ReadMe/blob/master/docker/docker-compose.md) - команды и примеры работы с Docker-compose
-* [Docker hub](https://github.com/azretik/ReadMe/blob/master/docker/docker-hub.md) - полезные образы из докер хаба
+* [Docker hub](https://github.com/azretik/ReadMe/blob/master/docker/docker-hub.md) - полезные образы из докер хаба и их запуск
 * [Ubuntu](https://github.com/azretik/ReadMe/blob/master/Ubuntu.md) - трюки и команды для установки интересного ПО
 * [Windows 10](https://github.com/azretik/ReadMe/blob/master/Windows10.md) - настройка windows 10
 * [Git](https://github.com/azretik/ReadMe/blob/master/GIT.md) - команды для работы с git репозиториями
