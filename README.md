@@ -11,7 +11,7 @@
 * [Laravel](https://github.com/azretik/ReadMe/blob/master/Laravel.md)
 * [PostgreSQL](https://github.com/azretik/ReadMe/blob/master/PostgreSQL%2Cmd)
 * [FFMPEG](https://github.com/azretik/ReadMe/blob/master/ffmpeg.md)
-* [OctoPrint install on ArmBian](linux/armbian-octoprint.md) `#linux` ==#arm== **==#3dprinter==**
+* [OctoPrint install on ArmBian](linux/armbian-octoprint.md) `#linux` `#arm` `#3dprinter`
   * Установка OctoPrint на ArmBian
 * Возвращение rc.local в ubuntu
 * Установка wsl в windows 10 из консоли
