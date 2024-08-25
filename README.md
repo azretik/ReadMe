@@ -44,11 +44,10 @@
 * [json-schema](https://github.com/alecthomas/jsonschema)
 
 ### Интересные приложения
-* [Polybar](https://github.com/jaagr/polybar) - интересный бар для линукса (используют в связке с i3wm в основном)
+- [Polybar](https://github.com/jaagr/polybar) - интересный бар для линукса (используют в связке с i3wm в основном)
 - [CenterTaskbar](https://github.com/mdhiggins/CenterTaskbar) `#windows7`
- - *центрирует иконки приложений в панели задач*
- - [github.com](https://github.com/mdhiggins/CenterTaskbar)
- - https://github.com/mdhiggins/CenterTaskbar
+  - *центрирует иконки приложений в панели задач*
+  - https://github.com/mdhiggins/CenterTaskbar
 
 ### Статьи - информация
 * [Гит как хранилище данных](https://habr.com/ru/post/317662/)
