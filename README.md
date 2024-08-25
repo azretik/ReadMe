@@ -3,7 +3,7 @@
 
 ### Внутренние ссылки
 * [Docker](https://github.com/azretik/ReadMe/blob/master/docker/docker.md) - команды для работы с Docker
-* [[./docker/docker.md]]
+* [[./docker/docker.md]](./docker/docker.md)
  * команды для работы с докер 
 * [Docker-Compose](https://github.com/azretik/ReadMe/blob/master/docker/docker-compose.md) - команды и примеры работы с Docker-compose
 * [Docker hub](https://github.com/azretik/ReadMe/blob/master/docker/docker-hub.md) - полезные образы из докер хаба и их запуск
