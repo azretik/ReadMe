@@ -11,11 +11,13 @@
 * [Laravel](https://github.com/azretik/ReadMe/blob/master/Laravel.md)
 * [PostgreSQL](https://github.com/azretik/ReadMe/blob/master/PostgreSQL%2Cmd)
 * [FFMPEG](https://github.com/azretik/ReadMe/blob/master/ffmpeg.md)
-* [OctoPrint install on ArmBian](armbian-octoprint.md) - Установка OctoPrint на ArmBian
+* [OctoPrint install on ArmBian](linux/armbian-octoprint.md) #linux #arm #3dprinter
+  * Установка OctoPrint на ArmBian
 * Возвращение rc.local в ubuntu
 * Установка wsl в windows 10 из консоли
 * Проброс интерфейсов из linux в windows
-* [MacBook Pro 2011](macbookpro2011.md) - хаки и трюки на макбуке
+* [MacBook Pro 2011](macbookpro2011.md) #osx
+  * хаки и трюки на макбуке
 
 ### Внешние ссылки
 * [MarkDown Гитхаба](https://guides.github.com/features/mastering-markdown/)
