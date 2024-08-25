@@ -11,8 +11,8 @@
 * [Laravel](https://github.com/azretik/ReadMe/blob/master/Laravel.md)
 * [PostgreSQL](https://github.com/azretik/ReadMe/blob/master/PostgreSQL%2Cmd)
 * [FFMPEG](https://github.com/azretik/ReadMe/blob/master/ffmpeg.md)
-* [OctoPrint install on ArmBian](linux/armbian-octoprint.md) `#linux` `#arm` `3dprinter`
-  * Установка OctoPrint на ArmBian
+* [OctoPrint install on ArmBian](linux/armbian-octoprint.md) `#linux` `#arm` `#3dprinter`
+  * *Установка OctoPrint на ArmBian*
 * Возвращение rc.local в ubuntu
 * Установка wsl в windows 10 из консоли
 * Проброс интерфейсов из linux в windows
@@ -45,7 +45,10 @@
 
 ### Интересные приложения
 * [Polybar](https://github.com/jaagr/polybar) - интересный бар для линукса (используют в связке с i3wm в основном)
-* [CenterTaskbar](https://github.com/mdhiggins/CenterTaskbar) - центрирует иконки приложений в панели задач
+- [CenterTaskbar](https://github.com/mdhiggins/CenterTaskbar) `#windows7`
+ - *центрирует иконки приложений в панели задач*
+ - [github.com](https://github.com/mdhiggins/CenterTaskbar)
+ - https://github.com/mdhiggins/CenterTaskbar
 
 ### Статьи - информация
 * [Гит как хранилище данных](https://habr.com/ru/post/317662/)
