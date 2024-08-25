@@ -45,7 +45,7 @@
 
 ### Интересные приложения
 - [Polybar](https://github.com/jaagr/polybar) - интересный бар для линукса (используют в связке с i3wm в основном)
-- [CenterTaskbar](https://github.com/mdhiggins/CenterTaskbar) `#windows7`
+- CenterTaskbar `#windows7`
   - *центрирует иконки приложений в панели задач*
   - https://github.com/mdhiggins/CenterTaskbar
 
