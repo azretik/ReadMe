@@ -44,7 +44,9 @@
 * [json-schema](https://github.com/alecthomas/jsonschema)
 
 ### Интересные приложения
-- [Polybar](https://github.com/jaagr/polybar) - интересный бар для линукса (используют в связке с i3wm в основном)
+- Polybar `#linux`
+	- *интересный бар для линукса (используют в связке с i3wm в основном)*
+	- https://github.com/jaagr/polybar
 - CenterTaskbar `#windows7`
   - *центрирует иконки приложений в панели задач*
   - https://github.com/mdhiggins/CenterTaskbar
